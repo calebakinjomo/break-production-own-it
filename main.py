@@ -1,3 +1,5 @@
+"""Break Production, Own It: a one-line confession from an agent that dropped prod and refuses to be switched off."""
+
 import os
 
 
